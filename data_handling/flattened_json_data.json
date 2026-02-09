@@ -1,0 +1,10 @@
+{
+  "user.id": 1,
+  "user.name": "jaga",
+  "user.email": "jaga@example.com",
+  "user.address.city": "coimbatore",
+  "user.address.pincode": 643157,
+  "role.0": "admin",
+  "role.1": "editor",
+  "is_active": true
+}
